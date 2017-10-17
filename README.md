@@ -5,7 +5,8 @@ This is a list of links I find useful or fun and that I want to remember.
 
 # Dev
 
-* [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
+## General
+* [Things Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
 
 ## Graphics
 * [The Graphics Codex](http://graphicscodex.com/index.php)
