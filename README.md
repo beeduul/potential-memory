@@ -1,5 +1,7 @@
 # potential-memory
-My Awesome List
+`potential-memory` was github's auto-suggested repository name. The AIs are here, people.
+
+This is a list of links I find useful or fun and that I want to remember.
 
 # Dev
 
