@@ -41,7 +41,7 @@ built on top of the awesome d3 and Reactjs libraries._
 
 # Learning
 * [NAND2Tetris](https://www.coursera.org/learn/nand2tetris2) - _Build a Modern Computer from First Principles_
-
+* [Teachable Machine](https://teachablemachine.withgoogle.com/) - _non-technical interactive Google Experiment to help explain how machine learning works_
 # Creation
 
 ## Blender
