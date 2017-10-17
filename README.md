@@ -12,8 +12,8 @@ My Awesome List
 ## Data Visualization
 
 ### Libraries
-* [Nivo](http://nivo.rocks/#/) - "nivo provides a rich set of dataviz components,
-built on top of the awesome d3 and Reactjs libraries."
+* [Nivo](http://nivo.rocks/#/) - _nivo provides a rich set of dataviz components
+built on top of the awesome d3 and Reactjs libraries._
 
 ## Awesome Lists
 * [Curated List of Awesome Lists](https://github.com/sindresorhus/awesome)
