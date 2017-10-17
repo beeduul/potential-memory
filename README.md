@@ -12,13 +12,13 @@ This is a list of links I find useful or fun and that I want to remember.
 * [Entagma](http://www.entagma.com/) - _Advanced CG Resources - well written tutorials, lots of Houdini knowledge_
   * [VEX: SPACE FILLING CURVES (AKA “THAT WINDOWS 95 SCREENSAVER”)](http://www.entagma.com/vex-space-filling-curves-aka-that-windows-95-screensaver/)
   * [Knitting in 3d - Building a UV Deformer](https://vimeo.com/222127455) _(Vimeo)_
-* Path Tracing
-  * [Series creating a path tracer from scratch]
+* [Path Tracing](https://en.wikipedia.org/wiki/Path_tracing)
+  * [Series creating a path tracer from scratch](http://richiesams.blogspot.com)
     1. http://richiesams.blogspot.com/2015/03/tracing-light-in-virtual-world.html
     1. http://richiesams.blogspot.com/2015/03/creating-randomness-and-acummulating.html
     1. http://richiesams.blogspot.com/2015/03/shooting-objects-from-across-way.html
     1. http://richiesams.blogspot.co.nz/2015/04/making-our-first-pretty-picture.html
-  * Ray Tracey's blog - GPU Path Tracing Tutorial
+  * [Ray Tracey's blog](http://raytracey.blogspot.com) - GPU Path Tracing Tutorial
     1. http://raytracey.blogspot.com/2015/10/gpu-path-tracing-tutorial-1-drawing.html
     1. http://raytracey.blogspot.com/2015/12/gpu-path-tracing-tutorial-2-interactive.html
     1. http://raytracey.blogspot.com/2016/01/gpu-path-tracing-tutorial-3-take-your.html
