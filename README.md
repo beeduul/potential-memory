@@ -8,6 +8,10 @@ This is a list of links I find useful or fun and that I want to remember.
 ## General
 * [Things Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
 
+### UX/UI Optimization
+* [Speed Matters](https://research.googleblog.com/2009/06/speed-matters.html) - _(Google Research Blog)_
+* [The need for mobile speed: How mobile latency impacts publisher revenue](https://www.doubleclickbygoogle.com/articles/mobile-speed-matters/) - (Doubleclick Article)
+
 ## Graphics
 * [The Graphics Codex](http://graphicscodex.com/index.php)
 * [Entagma](http://www.entagma.com/) - _Advanced CG Resources - well written tutorials, lots of Houdini knowledge_
