@@ -63,3 +63,6 @@ built on top of the awesome d3 and Reactjs libraries._
 
 ### Time Lapse
 * [Circle of Abstract Ritual - Jeff Frost](https://vimeo.com/106181453)
+
+# Personal Websites
+* http://tareksherif.net/ - Creator of webgl2 examples and picogl.js
