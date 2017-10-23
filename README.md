@@ -35,6 +35,9 @@ This is a list of links I find useful or fun and that I want to remember.
 * [The Best of JS and the web](https://bestof.js.org/)
 * [Modern Javascript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 
+## AI
+* [All the Linear Algebra You Need for AI](https://github.com/fastai/fastai/blob/master/tutorials/linalg_pytorch.ipynb)
+
 ## Data Visualization
 
 ### Libraries
