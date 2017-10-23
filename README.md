@@ -14,6 +14,7 @@ This is a list of links I find useful or fun and that I want to remember.
 
 ## Graphics
 * [The Graphics Codex](http://graphicscodex.com/index.php)
+* [Real-Time Rendering Portal](http://www.realtimerendering.com/portal.html) - _massive portal of great resources on RTR_
 * [Entagma](http://www.entagma.com/) - _Advanced CG Resources - well written tutorials, lots of Houdini knowledge_
   * [VEX: SPACE FILLING CURVES (AKA “THAT WINDOWS 95 SCREENSAVER”)](http://www.entagma.com/vex-space-filling-curves-aka-that-windows-95-screensaver/)
   * [Knitting in 3d - Building a UV Deformer](https://vimeo.com/222127455) _(Vimeo)_
