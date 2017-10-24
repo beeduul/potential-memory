@@ -41,6 +41,9 @@ This is a list of links I find useful or fun and that I want to remember.
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - _Free Online Book_
 * [All the Linear Algebra You Need for AI](https://github.com/fastai/fastai/blob/master/tutorials/linalg_pytorch.ipynb)
 
+## Math
+* [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) - _Animated Math Videos_
+
 ## Data Visualization
 
 ### Libraries
