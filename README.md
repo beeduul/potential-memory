@@ -37,6 +37,8 @@ This is a list of links I find useful or fun and that I want to remember.
 * [Modern Javascript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 
 ## AI
+* [Practical Deep Learning For Coders, Part 1](http://course.fast.ai/) - _Free Online Course_
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - _Free Online Book_
 * [All the Linear Algebra You Need for AI](https://github.com/fastai/fastai/blob/master/tutorials/linalg_pytorch.ipynb)
 
 ## Data Visualization
