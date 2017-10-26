@@ -33,6 +33,7 @@ This is a list of links I find useful or fun and that I want to remember.
   * [PicoGL.js](https://tsherif.github.io/picogl.js/) - _minimal WebGL 2 rendering library_
 
 ## Javascript
+* [Front-end checklist](http://frontendchecklist.com/) - _The perfect Front-End Checklist for modern websites and meticulous developers_
 * [The Best of JS and the web](https://bestof.js.org/)
 * [Modern Javascript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 
