@@ -64,15 +64,11 @@ built on top of the awesome d3 and Reactjs libraries._
 * [Blender Support Tutorials](https://www.blender.org/support/tutorials/) _(Official Blender)_
 * [Blender Fundamentals Videos](https://www.youtube.com/playlist?list=PLa1F2ddGya_8V90Kd5eC5PeBjySbXWGK1) _(YouTube)_
 * [51 Blender Shortcuts you need to know](https://www.youtube.com/watch?v=CWgKrFk5gU4) _(YouTube)_
+
 # Art
-
-## Pixel Art
+* [Illusions - James R Eads & Chris McDaniel](http://www.jamesreads.com/#/glitch-motion/)
 * [Pedro Medeiros is creating Pixel Art and other Game Dev stuff](https://www.patreon.com/saint11/posts) - Great pixel art tutorials
+* [Circle of Abstract Ritual - Jeff Frost](https://vimeo.com/106181453) - Time Lapse
 
-## Videos
-
-### Time Lapse
-* [Circle of Abstract Ritual - Jeff Frost](https://vimeo.com/106181453)
-
-# Personal Websites
+# Personal Websites of Note
 * http://tareksherif.net/ - Creator of webgl2 examples and picogl.js
