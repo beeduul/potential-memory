@@ -37,6 +37,7 @@ This is a list of links I find useful or fun and that I want to remember.
 * [Front-end checklist](http://frontendchecklist.com/) - _The perfect Front-End Checklist for modern websites and meticulous developers_
 * [The Best of JS and the web](https://bestof.js.org/)
 * [Modern Javascript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+* [Node.js V8 internals: an illustrative primer](https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6)
 
 ## AI / ML / DNN
 * [Magenta Project](https://magenta.tensorflow.org/) - _Make Music and Art Using Machine Learning_ 
@@ -56,6 +57,7 @@ built on top of the awesome d3 and Reactjs libraries._
 ## Awesome Lists
 * [Curated List of Awesome Lists](https://github.com/sindresorhus/awesome)
 * [A Curated List of Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
+* [Awesome Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
 
 # Learning
 * [NAND2Tetris](https://www.coursera.org/learn/nand2tetris2) - _Build a Modern Computer from First Principles_
