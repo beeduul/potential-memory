@@ -32,6 +32,8 @@ This is a list of links I find useful or fun and that I want to remember.
     1. http://raytracey.blogspot.com/2016/09/gpu-path-tracing-tutorial-4-optimised.html
 * WebGL
   * [PicoGL.js](https://tsherif.github.io/picogl.js/) - _minimal WebGL 2 rendering library_
+* Blogs
+  * [Graphics Studies by Adrian Courreges](http://www.adriancourreges.com/projects/) - _terrific breakdown articles of modern game/graphics engines techniques_
 
 ## Javascript
 * [Front-end checklist](http://frontendchecklist.com/) - _The perfect Front-End Checklist for modern websites and meticulous developers_
