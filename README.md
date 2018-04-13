@@ -47,6 +47,8 @@ This is a list of links I find useful or fun and that I want to remember.
 * [Practical Deep Learning For Coders, Part 1](http://course.fast.ai/) - _Free Online Course_
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - _Free Online Book_
 * [All the Linear Algebra You Need for AI](https://github.com/fastai/fastai/blob/master/tutorials/linalg_pytorch.ipynb)
+* [Mastering Chess and Shogi by Self-Play with a
+General Reinforcement Learning Algorithm (Google Deep Mind)](https://arxiv.org/pdf/1712.01815.pdf)
 
 ## Math
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) - _Animated Math Videos_
