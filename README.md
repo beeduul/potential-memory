@@ -79,6 +79,9 @@ built on top of the awesome d3 and Reactjs libraries._
 * [Pedro Medeiros is creating Pixel Art and other Game Dev stuff](https://www.patreon.com/saint11/posts) - Great pixel art tutorials
 * [Circle of Abstract Ritual - Jeff Frost](https://vimeo.com/106181453) - Time Lapse
 
+## Artists
+* [Tomer Hanuka](http://thanuka.com/)
+
 # Misc
 * [Essays on digital cartography and mapping (Justin O’Beirne)](https://www.justinobeirne.com/)
 
