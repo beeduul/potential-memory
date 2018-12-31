@@ -78,6 +78,7 @@ built on top of the awesome d3 and Reactjs libraries._
 * [Illusions - James R Eads & Chris McDaniel](http://www.jamesreads.com/#/glitch-motion/)
 * [Pedro Medeiros is creating Pixel Art and other Game Dev stuff](https://www.patreon.com/saint11/posts) - Great pixel art tutorials
 * [Circle of Abstract Ritual - Jeff Frost](https://vimeo.com/106181453) - Time Lapse
+* [Echophon](http://echophon.tumblr.com/) - generative graphics/art (stills & gifs)
 
 ## Artists
 * [Tomer Hanuka](http://thanuka.com/)
