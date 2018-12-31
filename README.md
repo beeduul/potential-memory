@@ -43,6 +43,7 @@ This is a list of links I find useful or fun and that I want to remember.
 
 ## AI / ML / DNN
 * [Distill](https://distill.pub/) - _Clearly written *and illustrated* explanatory articles on Machine Learning_
+* [Papers With Code](https://paperswithcode.com/) - The Latest in Machine Learning
 * [Magenta Project](https://magenta.tensorflow.org/) - _Make Music and Art Using Machine Learning_ 
 * [Practical Deep Learning For Coders, Part 1](http://course.fast.ai/) - _Free Online Course_
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - _Free Online Book_
