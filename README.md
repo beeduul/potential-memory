@@ -70,6 +70,9 @@ built on top of the awesome d3 and Reactjs libraries._
 * [Teachable Machine](https://teachablemachine.withgoogle.com/) - _non-technical interactive Google Experiment to help explain how machine learning works_
 # Creation
 
+## Pico-8
+* [fillp tool](https://seansleblanc.itch.io/pico-8-fillp-tool) - _interactive fillp pattern generation tool_ 
+
 ## Blender
 * [Blender Support Tutorials](https://www.blender.org/support/tutorials/) _(Official Blender)_
 * [Blender Fundamentals Videos](https://www.youtube.com/playlist?list=PLa1F2ddGya_8V90Kd5eC5PeBjySbXWGK1) _(YouTube)_
