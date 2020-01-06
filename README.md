@@ -71,6 +71,7 @@ built on top of the awesome d3 and Reactjs libraries._
 # Creation
 
 ## Pico-8
+* [Awesome Pico-8](https://github.com/pico-8/awesome-PICO-8) - Pico-8 awesome list
 * [Advanced Manual](https://www.lexaloffle.com/bbs/?pid=58671) - tips and tricks for advanced Pico-8 dev
 * [fillp tool](https://seansleblanc.itch.io/pico-8-fillp-tool) - _interactive fillp pattern generation tool_ 
 
